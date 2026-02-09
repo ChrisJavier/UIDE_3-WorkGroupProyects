@@ -10,8 +10,7 @@ V01;Tipo de vivienda
 V0201;Condición de ocupación de vivienda particular 
 V0202;Condición de ocupación de vivienda colectiva
 V03;Material predominante del techo o cubierta
-V04;"Estado del techo o cubierta
-"
+V04;Estado del techo o cubierta
 V05;Material predominante de las paredes exteriores
 V06;Estado de las paredes exteriores
 V07;Material predominante del piso
